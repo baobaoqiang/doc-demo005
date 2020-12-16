@@ -1,0 +1,8 @@
+site_name: "doc-demo005"
+site_description: "wrwr"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
